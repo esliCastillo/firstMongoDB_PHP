@@ -1,0 +1,22 @@
+tbody {
+    text-align: center;
+}
+thead tr th {
+    background-color: #8983d3;
+}
+td {
+    padding: 5px;
+}
+tr:hover {
+    background-color: rgb(226, 226, 241);
+}
+a{
+    margin: 2px;
+    padding: 2px;
+    background-color: #7E7B7B;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #B3AEAE
+}
